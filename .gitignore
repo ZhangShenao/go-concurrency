@@ -1,0 +1,15 @@
+.DS_Store
+mockspex
+*.rdb
+_vendor*
+*.log*
+./log/**
+./log/
+.vscode
+nohup.out
+*_local.ini
+*_local.yml
+.idea
+*.code-workspace
+*.csv
+/log/
